@@ -1,45 +1,45 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Guoliang Xu 许国梁
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Guoliang 
+last_name: Xu
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Guoliang Xu
 
 # Is this the primary user of the site?
-superuser: false
+superuser: TRUE
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Measurement and Evaluation
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Columbia University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Machine learning, High-dimensional Statistics, and Bayesian Data Analysis.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Bayesian Inference
+
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate in Measurement and Evaluation
+      institution: Columbia University
+      year: 2025
+    - course: MS in Applied Statistics
+      institution: Teachers College, Columbia University
+      year: 2022
+    - course: BA in Economics and Finance
+      institution: University of Aberdeen
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,9 +71,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Guoliang Xu is a PhD student of Measurement, Evaluation, and Statistics at Columbia University. His research interests include machine learning, bayesian inference, and time-series data analysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+

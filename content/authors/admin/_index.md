@@ -1,41 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Youmi Suk
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Youmi
+last_name: Suk
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role:  Assistant Professor of Applied Statistics at Teachers College, Columbia University
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Columbia University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research areas include causal machine learning, quasi-experimental designs, multilevel modeling, optimal treatment regimes, and algorithmic fairness.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - causal machine learning
+  - optimal treatment regimes
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Quantitative Methods
+      institution: University of Wisconsin-Madison
+      year: 2021
+    - course: M.A. in Educational Measurement and Evaluation
+      institution: Seoul National University
+      year: 2016
+    - course: B.S. in Earth Science Education,
+      institution: Seoul National University
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,9 +55,9 @@ social:
     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+#icon: cv
+#icon_pack: ai
+#link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,6 +71,5 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Youmi Suk is an Assistant Professor in the Measurement, Evaluation, and Statistics program in the Department of Human Development at Teachers College, Columbia University. She is also a member of the Data Science Institute (DSI) at Columbia University. Prior to joining Teachers College, she was an Assistant Professor in the School of Data Science at the University of Virginia. Dr. Suk’s research areas include causal machine learning, multilevel modeling, optimal treatment regimes, algorithmic fairness, and analysis of process data. Her current research projects fall into four categories: (i) robust machine learning for causal inference in multilevel observational studies, (ii) optimal treatment regimes in education for data-driven, personalized learning, (iii) evaluating testing accommodations with quasi-experimental devices and process data, and (iv) evaluating algorithmic fairness in educational settings. Dr. Suk has received awards and grants for her work, including the National Science Foundation (NSF) and American Educational Research Association (AERA). Also, she has taught courses on linear regression, data visualization, and programming for data science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
